@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../barbearia_alunos"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectBruno/formulario_alunos"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectArley"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectBruno"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/Projetos-Arley"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectBruno/carrossel_alunos"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectBruno/slider_alunos"
+		},
+		{
+			"path": "../../../Users/mateus.jrocha1/Html/ProjectBruno/api_alunos"
+		},
+		{
+			"path": "../barbearia_alunosteste"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProjectBruno"
+	}
+}
